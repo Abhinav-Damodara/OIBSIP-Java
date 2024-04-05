@@ -1,0 +1,16 @@
+PNR: 756907983
+Status: Canceled
+- To: Hyderabad
+- Class Preference: 2A
+- Journey Date: 23-10-2024
+
+PNR: 664581805
+Status: Canceled
+- Class Preference: CC
+- Journey Date: 24-10-2025
+
+PNR: 123907237
+Status: Canceled
+- Class Preference: SL
+- Journey Date: 23-06-2024
+
